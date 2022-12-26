@@ -1,3 +1,7 @@
 192.168.18.14	dietpi.local
 192.168.18.14	localproxy.local
 192.168.18.14	pihole.local
+
+dietpi.local  192.168.18.14
+localproxy.local  192.168.18.14
+pihole.local  192.168.18.14
